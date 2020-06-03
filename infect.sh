@@ -1,4 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
+# A tool by Rahul from www.noob-hackers.com
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -32,15 +32,15 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                         noobhackers
+                         Alexhr-xxx
 '|lolcat
 echo " " 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                 ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$Rahul$red ◀$rset"
+echo -e "$red                 ⫸$ylo contact me$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                   [Infect them with fun]$rset"
+echo -e "$red                   [own your response]$rset"
 echo " "
 echo " "
 echo -e "$grn              ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
